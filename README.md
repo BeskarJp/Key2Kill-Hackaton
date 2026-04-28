@@ -24,16 +24,37 @@ Lors de cet événement, plusieurs contraintes et défis ont été proposés :
 
 ---
 
-## 🚀 Installation & Exécution (Windows)
+## 🚀 Installation & Exécution
 
-Le build actuel est disponible pour Windows.
+Le jeu est disponible sur Linux et Windows. Pour le lancer, suivez selon votre OS correspondant :
 
-1.  Téléchargez ou clonez le dépôt.
+### 🐧 Linux
 
-2.  Accédez au dossier `K2K Windows`.
+Le jeu est disponible sur Linux. Pour le lancer, suivez ces étapes :
 
-3.  Lancez l'exécutable **`Key2Kill.exe`**.
-    - [IMPORTANT] Ne déplacez pas l'exécutable en dehors de son dossier racine car il dépend des dossiers `Key2Kill_Data` et `MonoBleedingEdge` pour fonctionner.
+1. Accédez au dossier `K2K Linux`.
+
+2. Donnez les permissions d'exécution au fichier `K2K.x86_64`. Vous pouvez le faire via votre gestionnaire de fichiers (Clic droit -> Propriétés -> Autoriser l'exécution) ou via le terminal :
+
+```bash
+chmod +x K2K.x86_64
+```
+
+3. Lancez le jeu :
+
+```bash
+./K2K.x86_64
+```
+
+- **Important :** Assurez-vous de garder l'exécutable dans son dossier d'origine pour qu'il puisse accéder aux données dans `K2K_Data`.
+
+### 🪟 Windows
+
+1. Accédez au dossier `K2K Windows`.
+
+2. Lancez l'exécutable **`Key2Kill.exe`**.
+
+- **Important :** Ne déplacez pas l'exécutable en dehors de son dossier racine car il dépend des dossiers `Key2Kill_Data` et `MonoBleedingEdge` pour fonctionner.
 
 ---
 
