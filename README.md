@@ -24,7 +24,7 @@ Lors de cet événement, plusieurs contraintes et défis ont été proposés :
 
 ---
 
-## 🚀 Installation & Exécution
+## Installation & Exécution
 
 Le jeu est disponible sur Linux et Windows. Pour le lancer, suivez selon votre OS correspondant :
 
@@ -58,7 +58,7 @@ chmod +x K2K.x86_64
 
 ---
 
-## 🛠️ Infos techniques
+## Infos techniques
 
 * **Durée :** 48h (du 24 au 26 avril 2026).
 * **Moteur :** Unity.
@@ -68,17 +68,17 @@ chmod +x K2K.x86_64
 
 ---
 
-## 👥 L'Équipe
+## L'Équipe
 
 Projet réalisé en groupe par :
 
-* **Laouënan Jupon (Moi même)**
+* **Laouënan Jupon**
 * **Eliott Duchene**
 * **Arthur Piron**
 
 ---
 
-## 📸 Images
+## Images
 
 Ci-joint des images illustrant le jeu Key2Kill :
 
